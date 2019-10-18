@@ -1,6 +1,6 @@
 Crisp Boundary Detection
 ================================================
-Original Repo here: https://github.com/phillipi/crisp-boundaries
+This is a copied Repo. Original Repo by authors is here: https://github.com/phillipi/crisp-boundaries
 
 This software package implements the method described in:
 
